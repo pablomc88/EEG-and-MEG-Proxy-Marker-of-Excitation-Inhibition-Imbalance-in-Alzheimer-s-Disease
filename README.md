@@ -2,7 +2,7 @@
 
 This repository contains the code used to compute 1/f slopes and E/I predictions from EEG/MEG data recordings that supports the findings of the following study:
 
-**Martínez-Cañada, P., Perez-Valero, E., Minguillon, J., Pelayo, F., López-Gordo, M. A., & Morillas, C. (2022). Combining Aperiodic 1/f Slopes and Brain Simulation: An EEG/MEG Proxy Marker of Excitation/Inhibition Imbalance in Alzheimer’s Disease. bioRxiv, 2022-12. https://www.biorxiv.org/content/10.1101/2022.12.21.521529v2**
+**Martínez-Cañada, P, Perez-Valero, E, Minguillon, J, Pelayo, F, López-Gordo, MA, Morillas, C. Combining aperiodic 1/f slopes and brain simulation: An EEG/MEG proxy marker of excitation/inhibition imbalance in Alzheimer's disease. Alzheimer's Dement. 2023; 15:e12477. https://doi.org/10.1002/dad2.12477**
 
 # **Usage**
 
